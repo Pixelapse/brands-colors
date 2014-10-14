@@ -1,0 +1,2237 @@
+[
+  {
+    "name": "Adobe",
+    "url-brand": "http://brandcenterdl.adobe.com/Corpmktg/Brandmktg/Campaign_Assets/guidelines/corporate/corporate_brand_guidelines.pdf",
+    "url-web": "http://www.adobe.com/",
+    "url-logo": "logos/adobe.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF0000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Airbnb",
+    "url-brand": "https://www.airbnb.com/about/about-us",
+    "url-web": "https://www.airbnb.com/",
+    "url-logo": "logos/airbnb.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF5560"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Airwatch",
+    "url-brand": "",
+    "url-web": "http://www.air-watch.com/",
+    "url-logo": "logos/airwatch.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "03A2DC"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Amazon",
+    "url-brand": "https://images-na.ssl-images-amazon.com/images/G/01/AdvertisingSite/pdfs/AmazonBrandUsageGuidelines.pdf",
+    "url-web": "https://www.amazon.com",
+    "url-logo": "logos/amazon.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF9900"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "AMD",
+    "url-brand": "http://www.amd.com/en-us/who-we-are/newsroom/assets-agreement/assets",
+    "url-web": "http://www.amd.com/",
+    "url-logo": "logos/amd.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "ed1c24",
+      "812990",
+      "00aab5",
+      "a6ce39",
+      "f26522"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Apple",
+    "url-brand": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html",
+    "url-web": "http://www.apple.com/",
+    "url-logo": "logos/apple.gif",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "B0B7BB"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Apple 1976",
+    "url-brand": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html",
+    "url-web": "http://www.apple.com/",
+    "url-logo": "logos/appleold.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "61BB46",
+      "FDB827",
+      "F5821F",
+      "E03A3E",
+      "963D97",
+      "009DDC"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Appnexus",
+    "url-brand": "",
+    "url-web": "http://www.appnexus.com/",
+    "url-logo": "logos/appnexus.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "F7941E"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "AT&amp;T",
+    "url-brand": "https://brandcenter.att.com/",
+    "url-web": "https://www.att.com/",
+    "url-logo": "logos/att.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "067AB4"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Automattic",
+    "url-brand": "",
+    "url-web": "http://automattic.com/",
+    "url-logo": "logos/automattic.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "3399CC"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "AWS",
+    "url-brand": "http://aws.amazon.com/partners/logo-guidelines/",
+    "url-web": "http://aws.amazon.com/",
+    "url-logo": "logos/aws.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "f2BF00"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Baidu",
+    "url-brand": "",
+    "url-web": "http://www.baidu.com/",
+    "url-logo": "logos/baidu.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2319DC",
+      "E10601"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Bing",
+    "url-brand": "http://www.microsoft.com/maps/mob-brand-guid.aspx",
+    "url-web": "http://www.bing.com/",
+    "url-logo": "logos/bing.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "fFB800"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Box",
+    "url-brand": "https://developers.box.com/branding/",
+    "url-web": "https://www.box.com/",
+    "url-logo": "logos/box.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0081C5"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Canon",
+    "url-brand": "http://www.canon.com/corporate/information/logo.html",
+    "url-web": "http://www.canon.com/",
+    "url-logo": "logos/canon.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "cC0000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Carousell",
+    "url-brand": "",
+    "url-web": "https://carousell.co/",
+    "url-logo": "logos/carousell.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "D01C30"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Cisco",
+    "url-brand": "http://www.cisco.com/web/about/ac50/ac47/about_cisco_brand_center.html",
+    "url-web": "http://www.cisco.com",
+    "url-logo": "logos/cisco.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "15495D",
+      "c4122E"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Coca-cola",
+    "url-brand": "",
+    "url-web": "http://www.coca-colacompany.com/",
+    "url-logo": "logos/cocacola.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FE0000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Corsair",
+    "url-brand": "http://www.corsair.com/en-us/company/media",
+    "url-web": "http://www.corsair.com/",
+    "url-logo": "logos/corsair.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0D5170"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Crowdbooster",
+    "url-brand": "http://static.crowdbooster.com/presskit/Crowdbooster_Overview.pdf",
+    "url-web": "http://crowdbooster.com/",
+    "url-logo": "logos/crowdbooster.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "fC5921"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Deem",
+    "url-brand": "",
+    "url-web": "http://www.deem.com/",
+    "url-logo": "logos/deem.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "666666",
+      "47B31B"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Dell",
+    "url-brand": "",
+    "url-web": "http://www.dell.com/",
+    "url-logo": "logos/dell.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0085C3"
+    ],
+    "colors-secondary": [
+      "aAAAAA",
+      "444444"
+    ]
+  },
+  {
+    "name": "Disqus",
+    "url-brand": "https://disqus.com/brand/",
+    "url-web": "https://disqus.com/",
+    "url-logo": "logos/disqus.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2e9fff"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Doordash",
+    "url-brand": "",
+    "url-web": "https://www.doordash.com/",
+    "url-logo": "logos/doordash.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "d9423C"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Dropbox",
+    "url-brand": "https://www.dropbox.com/branding",
+    "url-web": "https://www.dropbox.com/home",
+    "url-logo": "logos/dropbox.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "007ee5"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Dwolla",
+    "url-brand": "http://help.dwolla.com/customer/portal/articles/402662-dwolla-logos",
+    "url-web": "http://www.dwolla.com/",
+    "url-logo": "logos/dwolla.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF7404"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "eBay",
+    "url-brand": "",
+    "url-web": "http://www.ebay.com/",
+    "url-logo": "logos/ebay.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "E53238",
+      "0064D2",
+      "F5AF02",
+      "86B817"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Eventbrite",
+    "url-brand": "http://developer.eventbrite.com/terms/branding/",
+    "url-web": "http://www.eventbrite.com/",
+    "url-logo": "logos/eventbrite.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF7622"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Evernote",
+    "url-brand": "https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf",
+    "url-web": "https://evernote.com/",
+    "url-logo": "logos/evernote.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "6fb536"
+    ],
+    "colors-secondary": [
+      "696969"
+    ]
+  },
+  {
+    "name": "Expedia",
+    "url-brand": "http://www.expediainc.com/media/press-kit/",
+    "url-web": "http://www.expedia.com/",
+    "url-logo": "logos/expedia.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00355F",
+      "fFC50C"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Facebook",
+    "url-brand": "https://www.facebookbrand.com/",
+    "url-web": "https://www.facebook.com/",
+    "url-logo": "logos/facebook.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "3B5999"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Firefox",
+    "url-brand": "https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/",
+    "url-web": "https://www.mozilla.org/en-US/firefox/",
+    "url-logo": "logos/firefox.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "E66000",
+      "FF9500",
+      "FFCB00",
+      "00539F",
+      "0095DD"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Fiserv",
+    "url-brand": "",
+    "url-web": "https://www.fiserv.com/",
+    "url-logo": "logos/fiserv.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF6600"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Flickr",
+    "url-brand": "https://www.flickr.com/services/developer/community/",
+    "url-web": "https://www.flickr.com",
+    "url-logo": "logos/flickr.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0063DC",
+      "FF0084"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Foxconn",
+    "url-brand": "",
+    "url-web": "http://www.foxconn.com/",
+    "url-logo": "logos/foxconn.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "103590"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "GE",
+    "url-brand": "http://www.ge.com/brand/",
+    "url-web": "http://www.ge.com/",
+    "url-logo": "logos/ge.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "3A73B8"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Github",
+    "url-brand": "https://github.com/logos",
+    "url-web": "https://github.com/",
+    "url-logo": "logos/github.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "000000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Google",
+    "url-brand": "http://www.google.com/permissions/",
+    "url-web": "http://google.com",
+    "url-logo": "logos/google.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "4385F5",
+      "dC4437",
+      "f5B400",
+      "109D59"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "GoPro",
+    "url-brand": "http://gopro.com/authorized-reseller-program/us/trademark-policy",
+    "url-web": "http://gopro.com/",
+    "url-logo": "logos/gopro.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00AEEF",
+      "005DAC"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Heroku",
+    "url-brand": "https://www.heroku.com/policy/trademark",
+    "url-web": "https://www.heroku.com/",
+    "url-logo": "logos/heroku.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "6762A6"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Hipmunk",
+    "url-brand": "",
+    "url-web": "https://www.hipmunk.com/",
+    "url-logo": "logos/hipmunk.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2C92E1"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "HP",
+    "url-brand": "",
+    "url-web": "http://www.hp.com/",
+    "url-logo": "logos/hp.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0096D5"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Hulu",
+    "url-brand": "",
+    "url-web": "http://www.hulu.com",
+    "url-logo": "logos/hulu.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "99CC33"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "IBM",
+    "url-brand": "",
+    "url-web": "http://www.ibm.com/",
+    "url-logo": "logos/ibm.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "006699"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Ikea",
+    "url-brand": "",
+    "url-web": "http://www.ikea.com",
+    "url-logo": "logos/ikea.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "003399",
+      "fFCC00"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Instagram",
+    "url-brand": "",
+    "url-web": "http://instagram.com/",
+    "url-logo": "logos/instagram.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FA2955",
+      "fFD700",
+      "76CE9C",
+      "4C91F8",
+      "8E6051",
+      "e2DED4"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Intel",
+    "url-brand": "http://www.intel.com/content/www/us/en/trademarks/trademarks.html",
+    "url-web": "http://www.intel.com/",
+    "url-logo": "logos/intel.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "127CC1"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Intuit",
+    "url-brand": "http://about.intuit.com/about_intuit/press_room/intuit_logos/",
+    "url-web": "http://www.intuit.com/",
+    "url-logo": "logos/intuit.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "365EBF"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Kayak",
+    "url-brand": "",
+    "url-web": "http://www.kayak.com/",
+    "url-logo": "logos/kayak.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "eE821E",
+      "d9771B"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Kickstarter",
+    "url-brand": "https://www.kickstarter.com/help/style_guide",
+    "url-web": "https://www.kickstarter.com/",
+    "url-logo": "logos/kickstarter.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2BDE73"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Leica",
+    "url-brand": "",
+    "url-web": "http://us.leica-camera.com/",
+    "url-logo": "logos/leica.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF0033"
+    ],
+    "colors-secondary": [
+      "807F83"
+    ]
+  },
+  {
+    "name": "LG",
+    "url-brand": "http://www.lg.com/global/about-lg/corporate-information/at-a-glance/our-brand",
+    "url-web": "http://www.lg.com/",
+    "url-logo": "logos/lg.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "C40950"
+    ],
+    "colors-secondary": [
+      "6D6E72"
+    ]
+  },
+  {
+    "name": "LinkedIn",
+    "url-brand": "http://developer.linkedin.com/documents/branding-guidelines",
+    "url-web": "https://www.linkedin.com/",
+    "url-logo": "logos/linkedin.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "007BB6"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Logitech",
+    "url-brand": "http://www.logitech.com/en-us/press/articles/478",
+    "url-web": "http://www.logitech.com/",
+    "url-logo": "logos/logitech.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00AAA6"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "MailGun",
+    "url-brand": "https://github.com/mailgun/media",
+    "url-web": "http://www.mailgun.com/",
+    "url-logo": "logos/mailgun.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "C22026",
+      "64656A"
+    ],
+    "colors-secondary": [
+      "231F20",
+      "364C75",
+      "87A5cA"
+    ]
+  },
+  {
+    "name": "Mastercard",
+    "url-brand": "http://mastercardbrandcenter.com/us/index.shtml",
+    "url-web": "http://www.mastercard.com/",
+    "url-logo": "logos/mastercard.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "CC0000",
+      "FE9900"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Microsoft",
+    "url-brand": "http://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/Usage/Logo.aspx",
+    "url-web": "http://www.microsoft.com/",
+    "url-logo": "logos/microsoft.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "f25022",
+      "7FBA00",
+      "00A4EF",
+      "fFB900"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "MongoDB",
+    "url-brand": "http://www.mongodb.com/brand-resources",
+    "url-web": "http://www.mongodb.com/",
+    "url-logo": "logos/mongodb.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "4E3629",
+      "93795F",
+      "439C3E",
+      "49A845"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Mozilla",
+    "url-brand": "https://www.mozilla.org/en-US/styleguide/identity/mozilla/branding/",
+    "url-web": "https://www.mozilla.org/",
+    "url-logo": "logos/mozilla.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "C13832"
+    ],
+    "colors-secondary": [
+      "D7D3C8",
+      "4D4E53"
+    ]
+  },
+  {
+    "name": "Munchery",
+    "url-brand": "",
+    "url-web": "https://munchery.com/",
+    "url-logo": "logos/munchery.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "f15A22"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Netflix",
+    "url-brand": "http://developer.netflix.com/docs/Branding",
+    "url-web": "http://www.netflix.com/",
+    "url-logo": "logos/netflix.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "eF3525"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Nikon",
+    "url-brand": "http://advertising.nikon.ca/factory/logos.asp",
+    "url-web": "http://www.nikon.com/",
+    "url-logo": "logos/nikon.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "fFE600"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Nvidia",
+    "url-brand": "",
+    "url-web": "http://www.nvidia.com/content/global/global.php",
+    "url-logo": "logos/nvidia.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "74B71B"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Odeo",
+    "url-brand": "",
+    "url-web": "http://en.wikipedia.org/wiki/Odeo",
+    "url-logo": "logos/odeo.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FE58AC"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Olympus",
+    "url-brand": "http://www.olympusamerica.com/presspass/press_pass_cut/opp_logos.asp",
+    "url-web": "http://www.olympusamerica.com/",
+    "url-logo": "logos/olympus.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "08107b",
+      "e9B221"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Optimizely",
+    "url-brand": "",
+    "url-web": "https://www.optimizely.com/",
+    "url-logo": "logos/optimizely.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2B65AD"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Oracle",
+    "url-brand": "http://www.oracle.com/partners/en/opn-program/oracle-accelerate-logo-guidelines-1865051.pdf",
+    "url-web": "http://www.oracle.com/",
+    "url-logo": "logos/oracle.gif",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF0000"
+    ],
+    "colors-secondary": [
+      "7F7F7F"
+    ]
+  },
+  {
+    "name": "Orbitz",
+    "url-brand": "",
+    "url-web": "http://www.orbitz.com/",
+    "url-logo": "logos/orbitz.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0A51A1",
+      "67C6DD"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Panasonic",
+    "url-brand": "",
+    "url-web": "http://shop.panasonic.com/",
+    "url-logo": "logos/panasonic.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0042C1"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Paypal",
+    "url-brand": "",
+    "url-web": "https://www.paypal.com/home",
+    "url-logo": "logos/paypal.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00457C",
+      "0079C1"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Peets",
+    "url-brand": "",
+    "url-web": "http://www.peets.com/",
+    "url-logo": "logos/peets.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "bD9B6B"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pentax",
+    "url-brand": "",
+    "url-web": "http://www.us.ricoh-imaging.com/",
+    "url-logo": "logos/pentax.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "fF0017"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pepsi",
+    "url-brand": "http://www.pepsico.com/Media/Resource-Center",
+    "url-web": "http://www.pepsico.com/",
+    "url-logo": "logos/pepsi.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "E32934",
+      "004883"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Philz",
+    "url-brand": "",
+    "url-web": "http://www.philzcoffee.com/",
+    "url-logo": "logos/philz.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "321C0F",
+      "F09228",
+      "f4F0B5"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pinterest",
+    "url-brand": "http://business.pinterest.com/en/brand-guidelines",
+    "url-web": "http://www.pinterest.com/",
+    "url-logo": "logos/pinterest.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "cB2028"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pivotal",
+    "url-brand": "http://www.pivotal.io/trademark-guidelines",
+    "url-web": "http://www.pivotal.io/",
+    "url-logo": "logos/pivotal.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00786E"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pixelapse",
+    "url-brand": "https://www.pixelapse.com/media",
+    "url-web": "https://www.pixelapse.com/",
+    "url-logo": "logos/pixelapse.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "1A86D6"
+    ],
+    "colors-secondary": [
+      "333333"
+    ]
+  },
+  {
+    "name": "Priceline.com",
+    "url-brand": "",
+    "url-web": "http://www.priceline.com/",
+    "url-logo": "logos/priceline.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0A78B0"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pure Storage",
+    "url-brand": "",
+    "url-web": "http://www.purestorage.com/",
+    "url-logo": "logos/purestorage.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "F47735"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Qualcomm",
+    "url-brand": "https://www.qualcomm.com/documents/qualcomm-logo-guideline",
+    "url-web": "https://www.qualcomm.com/",
+    "url-logo": "logos/qualcomm.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "005daa"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Rakuten",
+    "url-brand": "http://global.rakuten.com/corp/brand/",
+    "url-web": "http://global.rakuten.com/en/",
+    "url-logo": "logos/rakuten.gif",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "BF0000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Razer",
+    "url-brand": "",
+    "url-web": "http://www.razerzone.com/",
+    "url-logo": "logos/razer.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00FF00"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Reddit",
+    "url-brand": "http://www.reddit.com/about/alien/",
+    "url-web": "http://www.reddit.com/",
+    "url-logo": "logos/reddit.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF4500",
+      "ff8b60",
+      "9494ff",
+      "cee3f8"
+    ],
+    "colors-secondary": [
+      "ff5700",
+      "c6c6c6"
+    ]
+  },
+  {
+    "name": "Salesforce",
+    "url-brand": "https://developer.salesforce.com/page/AppExchange_Trademark_Usage_Guidelines",
+    "url-web": "http://www.salesforce.com/",
+    "url-logo": "logos/salesforce.jpeg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2A94D6"
+    ],
+    "colors-secondary": [
+      "344A5F",
+      "F0F1F2"
+    ]
+  },
+  {
+    "name": "Samsung",
+    "url-brand": "http://press.samsung.ua/media/guidelines/samsung_vis_guide_final.pdf",
+    "url-web": "http://www.samsung.com/",
+    "url-logo": "logos/samsung.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "1428A0",
+      "75787B",
+      "0689D8"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Skype",
+    "url-brand": "http://www.skype.com/en/legal/brand-guidelines/",
+    "url-web": "http://www.skype.com/",
+    "url-logo": "logos/skype.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00AFF0"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Snapchat",
+    "url-brand": "",
+    "url-web": "https://www.snapchat.com/",
+    "url-logo": "logos/snapchat.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "fFFC00"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "SpoonRocket",
+    "url-brand": "",
+    "url-web": "https://www.spoonrocket.com/",
+    "url-logo": "logos/spoonrocket.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "dD0010"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Sprig",
+    "url-brand": "",
+    "url-web": "http://www.sprig.com/",
+    "url-logo": "logos/sprig.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "109B83"
+    ],
+    "colors-secondary": [
+      "303B47"
+    ]
+  },
+  {
+    "name": "Square",
+    "url-brand": "https://squareup.com/about",
+    "url-web": "https://squareup.com/",
+    "url-logo": "logos/square.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "616568"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "StackOverflow",
+    "url-brand": "http://stackexchange.com/about/logos",
+    "url-web": "http://stackoverflow.com/",
+    "url-logo": "logos/stackoverflow.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FE7A15"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Starbucks",
+    "url-brand": "http://starbucksocs.com/pdf/WPSlogoGuidelines.pdf",
+    "url-web": "http://www.starbucks.com/",
+    "url-logo": "logos/starbucks.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00704A"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Stripe",
+    "url-brand": "https://stripe.com/about/resources",
+    "url-web": "https://stripe.com/",
+    "url-logo": "logos/stripe.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "2E2A2B"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Symantec",
+    "url-brand": "",
+    "url-web": "http://www.symantec.com/",
+    "url-logo": "logos/symantec.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "fDBB30"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "T-mobile",
+    "url-brand": "http://www.t-mobile.com/company/legalnotices.aspx?tp=Abt_Tab_Trademarks",
+    "url-web": "http://www.t-mobile.com/",
+    "url-logo": "logos/tmobile.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "eC008C"
+    ],
+    "colors-secondary": [
+      "6A6A6A"
+    ]
+  },
+  {
+    "name": "Tencent",
+    "url-brand": "",
+    "url-web": "http://www.tencent.com/",
+    "url-logo": "logos/tencent.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "006CB6"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Tesla",
+    "url-brand": "http://www.teslamotors.com/gallery",
+    "url-web": "http://www.teslamotors.com/",
+    "url-logo": "logos/tesla.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "e31937"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Toshiba",
+    "url-brand": "",
+    "url-web": "http://www.toshiba.com/",
+    "url-logo": "logos/toshiba.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "eD1D24"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Travelocity",
+    "url-brand": "",
+    "url-web": "http://www.travelocity.com/",
+    "url-logo": "logos/travelocity.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "55A1D5",
+      "f37736",
+      "00467F"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "TripAdvisor",
+    "url-brand": "http://www.tripadvisor.com/MediaKit",
+    "url-web": "http://www.tripadvisor.com/",
+    "url-logo": "logos/tripadvisor.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "589641"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Tumblr",
+    "url-brand": "https://www.tumblr.com/logo",
+    "url-web": "https://www.tumblr.com/",
+    "url-logo": "logos/tumblr.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "34465D"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Twitter",
+    "url-brand": "https://about.twitter.com/press/brand-assets",
+    "url-web": "https://twitter.com/",
+    "url-logo": "logos/twitter.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "55ACEE"
+    ],
+    "colors-secondary": [
+      "292F33"
+    ]
+  },
+  {
+    "name": "Uber",
+    "url-brand": "",
+    "url-web": "https://www.uber.com/",
+    "url-logo": "logos/uber.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "3E3C4A",
+      "1B1420"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Verizon",
+    "url-brand": "http://www.verizonfoundation.org/about/brochures-fact-sheets-and-logos/",
+    "url-web": "http://www.verizon.com",
+    "url-logo": "logos/verizon.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "eC1F27"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Vine",
+    "url-brand": "https://vine.co/logo",
+    "url-web": "https://vine.co/",
+    "url-logo": "logos/vine.gif",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00B489"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Virgin",
+    "url-brand": "",
+    "url-web": "https://www.virgin.com/about-us",
+    "url-logo": "logos/virgin.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "F0003A"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Visa",
+    "url-brand": "",
+    "url-web": "https://usa.visa.com/",
+    "url-logo": "logos/visa.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0157A0",
+      "F9A61A"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "VMware",
+    "url-brand": "http://www.vmware.com/files/pdf/partners/VMW_10Q1_LGO_GUIDE_USLET_EN_R1.pdf",
+    "url-web": "http://www.vmware.com/",
+    "url-logo": "logos/vmware.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "717074"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Wufoo",
+    "url-brand": "http://www.wufoo.com/docs/api/v3/third-party-application-rules/",
+    "url-web": "http://www.wufoo.com/",
+    "url-logo": "logos/wufoo.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "CD3824"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Yahoo",
+    "url-brand": "https://info.yahoo.com/press-center/logos-images",
+    "url-web": "https://www.yahoo.com/",
+    "url-logo": "logos/yahoo.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "780099"
+    ],
+    "colors-secondary": [
+      "545454"
+    ]
+  },
+  {
+    "name": "YC",
+    "url-brand": "",
+    "url-web": "http://www.ycombinator.com/",
+    "url-logo": "logos/yc.gif",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF6501"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Yelp",
+    "url-brand": "http://www.yelp.com/brand",
+    "url-web": "http://www.yelp.com/",
+    "url-logo": "logos/yelp.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "c41200"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Youtube",
+    "url-brand": "https://www.youtube.com/yt/brand/",
+    "url-web": "https://www.youtube.com/",
+    "url-logo": "logos/youtube.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "EB2828"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Zappos",
+    "url-brand": "http://about.zappos.com/press-center/media-coverage",
+    "url-web": "http://www.zappos.com/",
+    "url-logo": "logos/zappos.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "7499C6"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Xbox",
+    "url-brand": "",
+    "url-web": "http://www.xbox.com/",
+    "url-logo": "logos/xbox.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "107C10",
+      "5DC21E",
+      "3A3A3A",
+      "6B6B6B",
+      "C2C2C2"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Playstation",
+    "url-brand": "",
+    "url-web": "http://www.playstation.com/",
+    "url-logo": "logos/playstation.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "003791"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Wii",
+    "url-brand": "",
+    "url-web": "http://wii.com/",
+    "url-logo": "logos/wii.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "8c8c8c"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Yammer",
+    "url-brand": "https://developer.yammer.com/assets/sites/12/2014/07/Yammer_BrandIdentityGuidelines-1.pdf",
+    "url-web": "https://www.yammer.com/",
+    "url-logo": "logos/yammer.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0072C6"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Bitbucket",
+    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-web": "https://bitbucket.org/",
+    "url-logo": "logos/bitbucket.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "205081"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Jira",
+    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-web": "https://www.atlassian.com/software/jira",
+    "url-logo": "logos/jira.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "205081"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "HipChat",
+    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-web": "https://www.hipchat.com/",
+    "url-logo": "logos/hipchat.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "205081"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Atlassian",
+    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-web": "https://www.atlassian.com/",
+    "url-logo": "logos/atlassian.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "205081",
+      "59afe1"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Western Digital",
+    "url-brand": "http://www.wdbrand.com/standards/guidelines/WD_Guidelines.pdf",
+    "url-web": "http://www.wdc.com/",
+    "url-logo": "logos/wdc.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "3c82c1"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Cooler Master",
+    "url-brand": "",
+    "url-web": "http://www.coolermaster.com/",
+    "url-logo": "logos/coolermaster.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "01A3B0"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Benq",
+    "url-brand": "",
+    "url-web": "http://www.benq.us/",
+    "url-logo": "logos/benq.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "502E91"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Gigabyte",
+    "url-brand": "",
+    "url-web": "http://www.gigabyte.us/",
+    "url-logo": "logos/gigabyte.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0052A4"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Kaspersky",
+    "url-brand": "",
+    "url-web": "http://www.kaspersky.com/",
+    "url-logo": "logos/kaspersky.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "006D55",
+      "D52B1E"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "McAfee",
+    "url-brand": "http://www.mcafee.com/us/resources/misc/mcafee-logo-guidelines.pdf",
+    "url-web": "http://www.mcafee.com/",
+    "url-logo": "logos/mcafee.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "D31245",
+      "53626F"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Linksys",
+    "url-brand": "",
+    "url-web": "http://www.linksys.com/",
+    "url-logo": "logos/linksys.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "34689A"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Kingston",
+    "url-brand": "",
+    "url-web": "http://www.kingston.com/",
+    "url-logo": "logos/kingston.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "E51A38"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Lexmark",
+    "url-brand": "",
+    "url-web": "https://www.lexmark.com/",
+    "url-logo": "logos/lexmark.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "ED1C24"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "MSi",
+    "url-brand": "http://media.msi.com/main.php?g2_view=core.DownloadItem&amp;g2_itemId=99668",
+    "url-web": "http://us.msi.com/",
+    "url-logo": "logos/msi.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "0054a7"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "NEC",
+    "url-brand": "http://www.nec-display-solutions.com/p/download/pr/File/cp/Internet/Shared/SiteContentNew/Press/Logos/Downloads/PDF-LogoGuidelines-(english).pdf?e=e1s1&amp;fn=NEC-Guidelines-Logo.pdf",
+    "url-web": "http://www.necdisplay.com/",
+    "url-logo": "logos/nec.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "1414a0"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Netgear",
+    "url-brand": "",
+    "url-web": "http://www.netgear.com/",
+    "url-logo": "logos/netgear.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "6F2A8E"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Nintendo",
+    "url-brand": "",
+    "url-web": "http://www.nintendo.com/",
+    "url-logo": "logos/nintendo.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "8c8c8c"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "OCZ",
+    "url-brand": "",
+    "url-web": "http://ocz.com/",
+    "url-logo": "logos/ocz.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "195389",
+      "44B4E4"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Seagate",
+    "url-brand": "https://branding.seagate.com/",
+    "url-web": "http://www.seagate.com/",
+    "url-logo": "logos/seagate.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "669999"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Sony",
+    "url-brand": "",
+    "url-web": "http://www.sony.com/",
+    "url-logo": "logos/sony.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "000000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "ViewSonic",
+    "url-brand": "",
+    "url-web": "http://www.viewsonic.com/",
+    "url-logo": "logos/viewsonic.svg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "A41A4A"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Blogger",
+    "url-brand": "",
+    "url-web": "https://www.blogger.com/features",
+    "url-logo": "logos/blogger.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FF9334"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Wordpress",
+    "url-brand": "https://wordpress.org/about/logos/",
+    "url-web": "https://wordpress.com/",
+    "url-logo": "logos/wordpress.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "464646",
+      "21759B",
+      "d54e21"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Medium",
+    "url-brand": "https://medium.com/policy/logos-and-brand-guidelines-f1a01a733592",
+    "url-web": "https://medium.com/",
+    "url-logo": "logos/medium.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "000000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Svbtle",
+    "url-brand": "",
+    "url-web": "https://svbtle.com/",
+    "url-logo": "logos/svbtle.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "000000"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Quora",
+    "url-brand": "",
+    "url-web": "http://www.quora.com/",
+    "url-logo": "logos/quora.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "A82400"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Ghost",
+    "url-brand": "https://ghost.org/about/trademark/",
+    "url-web": "https://ghost.org/",
+    "url-logo": "logos/ghost.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "77868D",
+      "404041"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Whole Foods",
+    "url-brand": "",
+    "url-web": "http://www.wholefoodsmarket.com/",
+    "url-logo": "logos/wholefoods.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "00674B"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Spotify",
+    "url-brand": "https://developer.spotify.com/download/guidelines/ux-with-other-brands.pdf",
+    "url-web": "https://www.spotify.com/",
+    "url-logo": "logos/spotify.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "84bd00"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Pandora",
+    "url-brand": "http://www.pandora.com/Pandora_Identity_Standards_2009.pdf",
+    "url-web": "http://www.pandora.com/",
+    "url-logo": "logos/pandora.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "336699"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Last.fm",
+    "url-brand": "http://www.last.fm/about/resources",
+    "url-web": "http://www.last.fm/",
+    "url-logo": "logos/lastfm.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "D30018"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Vimeo",
+    "url-brand": "http://vimeo.com/about/brand_guidelines",
+    "url-web": "https://vimeo.com/",
+    "url-logo": "logos/vimeo.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "1ab7ea"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Orkut",
+    "url-brand": "",
+    "url-web": "https://www.orkut.com/",
+    "url-logo": "logos/orkut.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "ED2590"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "VLC",
+    "url-brand": "",
+    "url-web": "http://www.videolan.org/vlc/index.html",
+    "url-logo": "logos/vlc.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "f48b00"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "NatGeo",
+    "url-brand": "",
+    "url-web": "http://www.nationalgeographic.com/",
+    "url-logo": "logos/natgeo.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FCCD36"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Sprint",
+    "url-brand": "",
+    "url-web": "http://www.sprint.com/",
+    "url-logo": "logos/sprint.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "FFDD05"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Dribbble",
+    "url-brand": "https://dribbble.com/branding",
+    "url-web": "https://dribbble.com/",
+    "url-logo": "logos/dribbble.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "ea4c89"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Behance",
+    "url-brand": "https://www.behance.net/dev/api/brand",
+    "url-web": "https://www.behance.net/",
+    "url-logo": "logos/behance.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "1377FF"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Venmo",
+    "url-brand": "http://brand.venmo.com/styleguide",
+    "url-web": "https://venmo.com/",
+    "url-logo": "logos/venmo.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "3D95CE"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Blue Bottle",
+    "url-brand": "",
+    "url-web": "https://bluebottlecoffee.com/",
+    "url-logo": "logos/bluebottle.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "01A1DD",
+      "411F1E"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Sightglass",
+    "url-brand": "",
+    "url-web": "https://www.sightglasscoffee.com/",
+    "url-logo": "logos/sightglass.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "4D3608"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Ritual",
+    "url-brand": "",
+    "url-web": "http://www.ritualroasters.com/",
+    "url-logo": "logos/ritual.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "F05033",
+      "BA3219"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Barefoot",
+    "url-brand": "",
+    "url-web": "http://www.barefootcoffee.com/",
+    "url-logo": "logos/barefoot.jpg",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "A4825F",
+      "3D2A19"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Verve",
+    "url-brand": "",
+    "url-web": "http://www.vervecoffeeroasters.com/",
+    "url-logo": "logos/verve.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "292728"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "Weaver",
+    "url-brand": "",
+    "url-web": "http://www.weaverscoffee.com/Default.asp",
+    "url-logo": "logos/weavers.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "AFCEB0"
+    ],
+    "colors-secondary": []
+  },
+  {
+    "name": "LightUp",
+    "url-brand": "http://www.lightup.io/presskit",
+    "url-web": "http://www.lightup.io",
+    "url-logo": "logos/lightup.png",
+    "year-start": "",
+    "year-end": "",
+    "notes": "",
+    "colors-primary": [
+      "55C7D6"
+    ],
+    "colors-secondary": []
+  }
+];
