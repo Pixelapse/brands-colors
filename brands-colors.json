@@ -1,7 +1,7 @@
 [
   {
     "name": "Adobe",
-    "url-brand": "http://brandcenterdl.adobe.com/Corpmktg/Brandmktg/Campaign_Assets/guidelines/corporate/corporate_brand_guidelines.pdf",
+    "url-branding": "http://brandcenterdl.adobe.com/Corpmktg/Brandmktg/Campaign_Assets/guidelines/corporate/corporate_brand_guidelines.pdf",
     "url-web": "http://www.adobe.com/",
     "url-logo": "logos/adobe.png",
     "year-start": "",
@@ -14,7 +14,7 @@
   },
   {
     "name": "Airbnb",
-    "url-brand": "https://www.airbnb.com/about/about-us",
+    "url-branding": "https://www.airbnb.com/about/about-us",
     "url-web": "https://www.airbnb.com/",
     "url-logo": "logos/airbnb.png",
     "year-start": "",
@@ -27,7 +27,7 @@
   },
   {
     "name": "Airwatch",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.air-watch.com/",
     "url-logo": "logos/airwatch.png",
     "year-start": "",
@@ -40,7 +40,7 @@
   },
   {
     "name": "Amazon",
-    "url-brand": "https://images-na.ssl-images-amazon.com/images/G/01/AdvertisingSite/pdfs/AmazonBrandUsageGuidelines.pdf",
+    "url-branding": "https://images-na.ssl-images-amazon.com/images/G/01/AdvertisingSite/pdfs/AmazonBrandUsageGuidelines.pdf",
     "url-web": "https://www.amazon.com",
     "url-logo": "logos/amazon.jpg",
     "year-start": "",
@@ -53,7 +53,7 @@
   },
   {
     "name": "AMD",
-    "url-brand": "http://www.amd.com/en-us/who-we-are/newsroom/assets-agreement/assets",
+    "url-branding": "http://www.amd.com/en-us/who-we-are/newsroom/assets-agreement/assets",
     "url-web": "http://www.amd.com/",
     "url-logo": "logos/amd.jpg",
     "year-start": "",
@@ -70,7 +70,7 @@
   },
   {
     "name": "Apple",
-    "url-brand": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html",
+    "url-branding": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html",
     "url-web": "http://www.apple.com/",
     "url-logo": "logos/apple.gif",
     "year-start": "",
@@ -83,7 +83,7 @@
   },
   {
     "name": "Apple 1976",
-    "url-brand": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html",
+    "url-branding": "https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html",
     "url-web": "http://www.apple.com/",
     "url-logo": "logos/appleold.png",
     "year-start": "",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Appnexus",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.appnexus.com/",
     "url-logo": "logos/appnexus.png",
     "year-start": "",
@@ -114,7 +114,7 @@
   },
   {
     "name": "AT&amp;T",
-    "url-brand": "https://brandcenter.att.com/",
+    "url-branding": "https://brandcenter.att.com/",
     "url-web": "https://www.att.com/",
     "url-logo": "logos/att.png",
     "year-start": "",
@@ -127,7 +127,7 @@
   },
   {
     "name": "Automattic",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://automattic.com/",
     "url-logo": "logos/automattic.jpg",
     "year-start": "",
@@ -140,7 +140,7 @@
   },
   {
     "name": "AWS",
-    "url-brand": "http://aws.amazon.com/partners/logo-guidelines/",
+    "url-branding": "http://aws.amazon.com/partners/logo-guidelines/",
     "url-web": "http://aws.amazon.com/",
     "url-logo": "logos/aws.jpg",
     "year-start": "",
@@ -153,7 +153,7 @@
   },
   {
     "name": "Baidu",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.baidu.com/",
     "url-logo": "logos/baidu.png",
     "year-start": "",
@@ -167,7 +167,7 @@
   },
   {
     "name": "Bing",
-    "url-brand": "http://www.microsoft.com/maps/mob-brand-guid.aspx",
+    "url-branding": "http://www.microsoft.com/maps/mob-brand-guid.aspx",
     "url-web": "http://www.bing.com/",
     "url-logo": "logos/bing.png",
     "year-start": "",
@@ -180,7 +180,7 @@
   },
   {
     "name": "Box",
-    "url-brand": "https://developers.box.com/branding/",
+    "url-branding": "https://developers.box.com/branding/",
     "url-web": "https://www.box.com/",
     "url-logo": "logos/box.png",
     "year-start": "",
@@ -193,7 +193,7 @@
   },
   {
     "name": "Canon",
-    "url-brand": "http://www.canon.com/corporate/information/logo.html",
+    "url-branding": "http://www.canon.com/corporate/information/logo.html",
     "url-web": "http://www.canon.com/",
     "url-logo": "logos/canon.png",
     "year-start": "",
@@ -206,7 +206,7 @@
   },
   {
     "name": "Carousell",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://carousell.co/",
     "url-logo": "logos/carousell.png",
     "year-start": "",
@@ -219,7 +219,7 @@
   },
   {
     "name": "Cisco",
-    "url-brand": "http://www.cisco.com/web/about/ac50/ac47/about_cisco_brand_center.html",
+    "url-branding": "http://www.cisco.com/web/about/ac50/ac47/about_cisco_brand_center.html",
     "url-web": "http://www.cisco.com",
     "url-logo": "logos/cisco.png",
     "year-start": "",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Coca-cola",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.coca-colacompany.com/",
     "url-logo": "logos/cocacola.jpg",
     "year-start": "",
@@ -246,7 +246,7 @@
   },
   {
     "name": "Corsair",
-    "url-brand": "http://www.corsair.com/en-us/company/media",
+    "url-branding": "http://www.corsair.com/en-us/company/media",
     "url-web": "http://www.corsair.com/",
     "url-logo": "logos/corsair.png",
     "year-start": "",
@@ -259,7 +259,7 @@
   },
   {
     "name": "Crowdbooster",
-    "url-brand": "http://static.crowdbooster.com/presskit/Crowdbooster_Overview.pdf",
+    "url-branding": "http://static.crowdbooster.com/presskit/Crowdbooster_Overview.pdf",
     "url-web": "http://crowdbooster.com/",
     "url-logo": "logos/crowdbooster.jpg",
     "year-start": "",
@@ -272,7 +272,7 @@
   },
   {
     "name": "Deem",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.deem.com/",
     "url-logo": "logos/deem.jpg",
     "year-start": "",
@@ -286,7 +286,7 @@
   },
   {
     "name": "Dell",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.dell.com/",
     "url-logo": "logos/dell.jpg",
     "year-start": "",
@@ -302,7 +302,7 @@
   },
   {
     "name": "Disqus",
-    "url-brand": "https://disqus.com/brand/",
+    "url-branding": "https://disqus.com/brand/",
     "url-web": "https://disqus.com/",
     "url-logo": "logos/disqus.png",
     "year-start": "",
@@ -315,7 +315,7 @@
   },
   {
     "name": "Doordash",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.doordash.com/",
     "url-logo": "logos/doordash.png",
     "year-start": "",
@@ -328,7 +328,7 @@
   },
   {
     "name": "Dropbox",
-    "url-brand": "https://www.dropbox.com/branding",
+    "url-branding": "https://www.dropbox.com/branding",
     "url-web": "https://www.dropbox.com/home",
     "url-logo": "logos/dropbox.png",
     "year-start": "",
@@ -341,7 +341,7 @@
   },
   {
     "name": "Dwolla",
-    "url-brand": "http://help.dwolla.com/customer/portal/articles/402662-dwolla-logos",
+    "url-branding": "http://help.dwolla.com/customer/portal/articles/402662-dwolla-logos",
     "url-web": "http://www.dwolla.com/",
     "url-logo": "logos/dwolla.png",
     "year-start": "",
@@ -354,7 +354,7 @@
   },
   {
     "name": "eBay",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.ebay.com/",
     "url-logo": "logos/ebay.png",
     "year-start": "",
@@ -370,7 +370,7 @@
   },
   {
     "name": "Eventbrite",
-    "url-brand": "http://developer.eventbrite.com/terms/branding/",
+    "url-branding": "http://developer.eventbrite.com/terms/branding/",
     "url-web": "http://www.eventbrite.com/",
     "url-logo": "logos/eventbrite.png",
     "year-start": "",
@@ -383,7 +383,7 @@
   },
   {
     "name": "Evernote",
-    "url-brand": "https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf",
+    "url-branding": "https://evernote.com/media/pdf/evernote_quick_brand_guidelines.pdf",
     "url-web": "https://evernote.com/",
     "url-logo": "logos/evernote.svg",
     "year-start": "",
@@ -398,7 +398,7 @@
   },
   {
     "name": "Expedia",
-    "url-brand": "http://www.expediainc.com/media/press-kit/",
+    "url-branding": "http://www.expediainc.com/media/press-kit/",
     "url-web": "http://www.expedia.com/",
     "url-logo": "logos/expedia.png",
     "year-start": "",
@@ -412,7 +412,7 @@
   },
   {
     "name": "Facebook",
-    "url-brand": "https://www.facebookbrand.com/",
+    "url-branding": "https://www.facebookbrand.com/",
     "url-web": "https://www.facebook.com/",
     "url-logo": "logos/facebook.png",
     "year-start": "",
@@ -425,7 +425,7 @@
   },
   {
     "name": "Firefox",
-    "url-brand": "https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/",
+    "url-branding": "https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/",
     "url-web": "https://www.mozilla.org/en-US/firefox/",
     "url-logo": "logos/firefox.png",
     "year-start": "",
@@ -442,7 +442,7 @@
   },
   {
     "name": "Fiserv",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.fiserv.com/",
     "url-logo": "logos/fiserv.jpg",
     "year-start": "",
@@ -455,7 +455,7 @@
   },
   {
     "name": "Flickr",
-    "url-brand": "https://www.flickr.com/services/developer/community/",
+    "url-branding": "https://www.flickr.com/services/developer/community/",
     "url-web": "https://www.flickr.com",
     "url-logo": "logos/flickr.png",
     "year-start": "",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Foxconn",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.foxconn.com/",
     "url-logo": "logos/foxconn.jpg",
     "year-start": "",
@@ -482,7 +482,7 @@
   },
   {
     "name": "GE",
-    "url-brand": "http://www.ge.com/brand/",
+    "url-branding": "http://www.ge.com/brand/",
     "url-web": "http://www.ge.com/",
     "url-logo": "logos/ge.svg",
     "year-start": "",
@@ -495,7 +495,7 @@
   },
   {
     "name": "Github",
-    "url-brand": "https://github.com/logos",
+    "url-branding": "https://github.com/logos",
     "url-web": "https://github.com/",
     "url-logo": "logos/github.png",
     "year-start": "",
@@ -508,7 +508,7 @@
   },
   {
     "name": "Google",
-    "url-brand": "http://www.google.com/permissions/",
+    "url-branding": "http://www.google.com/permissions/",
     "url-web": "http://google.com",
     "url-logo": "logos/google.jpg",
     "year-start": "",
@@ -524,7 +524,7 @@
   },
   {
     "name": "GoPro",
-    "url-brand": "http://gopro.com/authorized-reseller-program/us/trademark-policy",
+    "url-branding": "http://gopro.com/authorized-reseller-program/us/trademark-policy",
     "url-web": "http://gopro.com/",
     "url-logo": "logos/gopro.png",
     "year-start": "",
@@ -538,7 +538,7 @@
   },
   {
     "name": "Heroku",
-    "url-brand": "https://www.heroku.com/policy/trademark",
+    "url-branding": "https://www.heroku.com/policy/trademark",
     "url-web": "https://www.heroku.com/",
     "url-logo": "logos/heroku.jpg",
     "year-start": "",
@@ -551,7 +551,7 @@
   },
   {
     "name": "Hipmunk",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.hipmunk.com/",
     "url-logo": "logos/hipmunk.jpg",
     "year-start": "",
@@ -564,7 +564,7 @@
   },
   {
     "name": "HP",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.hp.com/",
     "url-logo": "logos/hp.png",
     "year-start": "",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Hulu",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.hulu.com",
     "url-logo": "logos/hulu.png",
     "year-start": "",
@@ -590,7 +590,7 @@
   },
   {
     "name": "IBM",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.ibm.com/",
     "url-logo": "logos/ibm.svg",
     "year-start": "",
@@ -603,7 +603,7 @@
   },
   {
     "name": "Ikea",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.ikea.com",
     "url-logo": "logos/ikea.png",
     "year-start": "",
@@ -617,7 +617,7 @@
   },
   {
     "name": "Instagram",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://instagram.com/",
     "url-logo": "logos/instagram.png",
     "year-start": "",
@@ -635,7 +635,7 @@
   },
   {
     "name": "Intel",
-    "url-brand": "http://www.intel.com/content/www/us/en/trademarks/trademarks.html",
+    "url-branding": "http://www.intel.com/content/www/us/en/trademarks/trademarks.html",
     "url-web": "http://www.intel.com/",
     "url-logo": "logos/intel.png",
     "year-start": "",
@@ -648,7 +648,7 @@
   },
   {
     "name": "Intuit",
-    "url-brand": "http://about.intuit.com/about_intuit/press_room/intuit_logos/",
+    "url-branding": "http://about.intuit.com/about_intuit/press_room/intuit_logos/",
     "url-web": "http://www.intuit.com/",
     "url-logo": "logos/intuit.jpg",
     "year-start": "",
@@ -661,7 +661,7 @@
   },
   {
     "name": "Kayak",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.kayak.com/",
     "url-logo": "logos/kayak.png",
     "year-start": "",
@@ -675,7 +675,7 @@
   },
   {
     "name": "Kickstarter",
-    "url-brand": "https://www.kickstarter.com/help/style_guide",
+    "url-branding": "https://www.kickstarter.com/help/style_guide",
     "url-web": "https://www.kickstarter.com/",
     "url-logo": "logos/kickstarter.png",
     "year-start": "",
@@ -688,7 +688,7 @@
   },
   {
     "name": "Leica",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://us.leica-camera.com/",
     "url-logo": "logos/leica.png",
     "year-start": "",
@@ -703,7 +703,7 @@
   },
   {
     "name": "LG",
-    "url-brand": "http://www.lg.com/global/about-lg/corporate-information/at-a-glance/our-brand",
+    "url-branding": "http://www.lg.com/global/about-lg/corporate-information/at-a-glance/our-brand",
     "url-web": "http://www.lg.com/",
     "url-logo": "logos/lg.jpg",
     "year-start": "",
@@ -718,7 +718,7 @@
   },
   {
     "name": "LinkedIn",
-    "url-brand": "http://developer.linkedin.com/documents/branding-guidelines",
+    "url-branding": "http://developer.linkedin.com/documents/branding-guidelines",
     "url-web": "https://www.linkedin.com/",
     "url-logo": "logos/linkedin.png",
     "year-start": "",
@@ -731,7 +731,7 @@
   },
   {
     "name": "Logitech",
-    "url-brand": "http://www.logitech.com/en-us/press/articles/478",
+    "url-branding": "http://www.logitech.com/en-us/press/articles/478",
     "url-web": "http://www.logitech.com/",
     "url-logo": "logos/logitech.png",
     "year-start": "",
@@ -744,7 +744,7 @@
   },
   {
     "name": "MailGun",
-    "url-brand": "https://github.com/mailgun/media",
+    "url-branding": "https://github.com/mailgun/media",
     "url-web": "http://www.mailgun.com/",
     "url-logo": "logos/mailgun.png",
     "year-start": "",
@@ -762,7 +762,7 @@
   },
   {
     "name": "Mastercard",
-    "url-brand": "http://mastercardbrandcenter.com/us/index.shtml",
+    "url-branding": "http://mastercardbrandcenter.com/us/index.shtml",
     "url-web": "http://www.mastercard.com/",
     "url-logo": "logos/mastercard.jpg",
     "year-start": "",
@@ -776,7 +776,7 @@
   },
   {
     "name": "Microsoft",
-    "url-brand": "http://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/Usage/Logo.aspx",
+    "url-branding": "http://www.microsoft.com/en-us/legal/intellectualproperty/Trademarks/Usage/Logo.aspx",
     "url-web": "http://www.microsoft.com/",
     "url-logo": "logos/microsoft.png",
     "year-start": "",
@@ -792,7 +792,7 @@
   },
   {
     "name": "MongoDB",
-    "url-brand": "http://www.mongodb.com/brand-resources",
+    "url-branding": "http://www.mongodb.com/brand-resources",
     "url-web": "http://www.mongodb.com/",
     "url-logo": "logos/mongodb.png",
     "year-start": "",
@@ -808,7 +808,7 @@
   },
   {
     "name": "Mozilla",
-    "url-brand": "https://www.mozilla.org/en-US/styleguide/identity/mozilla/branding/",
+    "url-branding": "https://www.mozilla.org/en-US/styleguide/identity/mozilla/branding/",
     "url-web": "https://www.mozilla.org/",
     "url-logo": "logos/mozilla.png",
     "year-start": "",
@@ -824,7 +824,7 @@
   },
   {
     "name": "Munchery",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://munchery.com/",
     "url-logo": "logos/munchery.png",
     "year-start": "",
@@ -837,7 +837,7 @@
   },
   {
     "name": "Netflix",
-    "url-brand": "http://developer.netflix.com/docs/Branding",
+    "url-branding": "http://developer.netflix.com/docs/Branding",
     "url-web": "http://www.netflix.com/",
     "url-logo": "logos/netflix.png",
     "year-start": "",
@@ -850,7 +850,7 @@
   },
   {
     "name": "Nikon",
-    "url-brand": "http://advertising.nikon.ca/factory/logos.asp",
+    "url-branding": "http://advertising.nikon.ca/factory/logos.asp",
     "url-web": "http://www.nikon.com/",
     "url-logo": "logos/nikon.png",
     "year-start": "",
@@ -863,7 +863,7 @@
   },
   {
     "name": "Nvidia",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.nvidia.com/content/global/global.php",
     "url-logo": "logos/nvidia.png",
     "year-start": "",
@@ -876,7 +876,7 @@
   },
   {
     "name": "Odeo",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://en.wikipedia.org/wiki/Odeo",
     "url-logo": "logos/odeo.png",
     "year-start": "",
@@ -889,7 +889,7 @@
   },
   {
     "name": "Olympus",
-    "url-brand": "http://www.olympusamerica.com/presspass/press_pass_cut/opp_logos.asp",
+    "url-branding": "http://www.olympusamerica.com/presspass/press_pass_cut/opp_logos.asp",
     "url-web": "http://www.olympusamerica.com/",
     "url-logo": "logos/olympus.png",
     "year-start": "",
@@ -903,7 +903,7 @@
   },
   {
     "name": "Optimizely",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.optimizely.com/",
     "url-logo": "logos/optimizely.png",
     "year-start": "",
@@ -916,7 +916,7 @@
   },
   {
     "name": "Oracle",
-    "url-brand": "http://www.oracle.com/partners/en/opn-program/oracle-accelerate-logo-guidelines-1865051.pdf",
+    "url-branding": "http://www.oracle.com/partners/en/opn-program/oracle-accelerate-logo-guidelines-1865051.pdf",
     "url-web": "http://www.oracle.com/",
     "url-logo": "logos/oracle.gif",
     "year-start": "",
@@ -931,7 +931,7 @@
   },
   {
     "name": "Orbitz",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.orbitz.com/",
     "url-logo": "logos/orbitz.png",
     "year-start": "",
@@ -945,7 +945,7 @@
   },
   {
     "name": "Panasonic",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://shop.panasonic.com/",
     "url-logo": "logos/panasonic.jpg",
     "year-start": "",
@@ -958,7 +958,7 @@
   },
   {
     "name": "Paypal",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.paypal.com/home",
     "url-logo": "logos/paypal.jpg",
     "year-start": "",
@@ -972,7 +972,7 @@
   },
   {
     "name": "Peets",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.peets.com/",
     "url-logo": "logos/peets.png",
     "year-start": "",
@@ -985,7 +985,7 @@
   },
   {
     "name": "Pentax",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.us.ricoh-imaging.com/",
     "url-logo": "logos/pentax.png",
     "year-start": "",
@@ -998,7 +998,7 @@
   },
   {
     "name": "Pepsi",
-    "url-brand": "http://www.pepsico.com/Media/Resource-Center",
+    "url-branding": "http://www.pepsico.com/Media/Resource-Center",
     "url-web": "http://www.pepsico.com/",
     "url-logo": "logos/pepsi.png",
     "year-start": "",
@@ -1012,7 +1012,7 @@
   },
   {
     "name": "Philz",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.philzcoffee.com/",
     "url-logo": "logos/philz.jpg",
     "year-start": "",
@@ -1027,7 +1027,7 @@
   },
   {
     "name": "Pinterest",
-    "url-brand": "http://business.pinterest.com/en/brand-guidelines",
+    "url-branding": "http://business.pinterest.com/en/brand-guidelines",
     "url-web": "http://www.pinterest.com/",
     "url-logo": "logos/pinterest.png",
     "year-start": "",
@@ -1040,7 +1040,7 @@
   },
   {
     "name": "Pivotal",
-    "url-brand": "http://www.pivotal.io/trademark-guidelines",
+    "url-branding": "http://www.pivotal.io/trademark-guidelines",
     "url-web": "http://www.pivotal.io/",
     "url-logo": "logos/pivotal.png",
     "year-start": "",
@@ -1053,7 +1053,7 @@
   },
   {
     "name": "Pixelapse",
-    "url-brand": "https://www.pixelapse.com/media",
+    "url-branding": "https://www.pixelapse.com/media",
     "url-web": "https://www.pixelapse.com/",
     "url-logo": "logos/pixelapse.png",
     "year-start": "",
@@ -1068,7 +1068,7 @@
   },
   {
     "name": "Priceline.com",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.priceline.com/",
     "url-logo": "logos/priceline.png",
     "year-start": "",
@@ -1081,7 +1081,7 @@
   },
   {
     "name": "Pure Storage",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.purestorage.com/",
     "url-logo": "logos/purestorage.jpg",
     "year-start": "",
@@ -1094,7 +1094,7 @@
   },
   {
     "name": "Qualcomm",
-    "url-brand": "https://www.qualcomm.com/documents/qualcomm-logo-guideline",
+    "url-branding": "https://www.qualcomm.com/documents/qualcomm-logo-guideline",
     "url-web": "https://www.qualcomm.com/",
     "url-logo": "logos/qualcomm.png",
     "year-start": "",
@@ -1107,7 +1107,7 @@
   },
   {
     "name": "Rakuten",
-    "url-brand": "http://global.rakuten.com/corp/brand/",
+    "url-branding": "http://global.rakuten.com/corp/brand/",
     "url-web": "http://global.rakuten.com/en/",
     "url-logo": "logos/rakuten.gif",
     "year-start": "",
@@ -1120,7 +1120,7 @@
   },
   {
     "name": "Razer",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.razerzone.com/",
     "url-logo": "logos/razer.png",
     "year-start": "",
@@ -1133,7 +1133,7 @@
   },
   {
     "name": "Reddit",
-    "url-brand": "http://www.reddit.com/about/alien/",
+    "url-branding": "http://www.reddit.com/about/alien/",
     "url-web": "http://www.reddit.com/",
     "url-logo": "logos/reddit.png",
     "year-start": "",
@@ -1152,7 +1152,7 @@
   },
   {
     "name": "Salesforce",
-    "url-brand": "https://developer.salesforce.com/page/AppExchange_Trademark_Usage_Guidelines",
+    "url-branding": "https://developer.salesforce.com/page/AppExchange_Trademark_Usage_Guidelines",
     "url-web": "http://www.salesforce.com/",
     "url-logo": "logos/salesforce.jpeg",
     "year-start": "",
@@ -1168,7 +1168,7 @@
   },
   {
     "name": "Samsung",
-    "url-brand": "http://press.samsung.ua/media/guidelines/samsung_vis_guide_final.pdf",
+    "url-branding": "http://press.samsung.ua/media/guidelines/samsung_vis_guide_final.pdf",
     "url-web": "http://www.samsung.com/",
     "url-logo": "logos/samsung.png",
     "year-start": "",
@@ -1183,7 +1183,7 @@
   },
   {
     "name": "Skype",
-    "url-brand": "http://www.skype.com/en/legal/brand-guidelines/",
+    "url-branding": "http://www.skype.com/en/legal/brand-guidelines/",
     "url-web": "http://www.skype.com/",
     "url-logo": "logos/skype.png",
     "year-start": "",
@@ -1196,7 +1196,7 @@
   },
   {
     "name": "Snapchat",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.snapchat.com/",
     "url-logo": "logos/snapchat.jpg",
     "year-start": "",
@@ -1209,7 +1209,7 @@
   },
   {
     "name": "SpoonRocket",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.spoonrocket.com/",
     "url-logo": "logos/spoonrocket.png",
     "year-start": "",
@@ -1222,7 +1222,7 @@
   },
   {
     "name": "Sprig",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.sprig.com/",
     "url-logo": "logos/sprig.png",
     "year-start": "",
@@ -1237,7 +1237,7 @@
   },
   {
     "name": "Square",
-    "url-brand": "https://squareup.com/about",
+    "url-branding": "https://squareup.com/about",
     "url-web": "https://squareup.com/",
     "url-logo": "logos/square.jpg",
     "year-start": "",
@@ -1250,7 +1250,7 @@
   },
   {
     "name": "StackOverflow",
-    "url-brand": "http://stackexchange.com/about/logos",
+    "url-branding": "http://stackexchange.com/about/logos",
     "url-web": "http://stackoverflow.com/",
     "url-logo": "logos/stackoverflow.png",
     "year-start": "",
@@ -1263,7 +1263,7 @@
   },
   {
     "name": "Starbucks",
-    "url-brand": "http://starbucksocs.com/pdf/WPSlogoGuidelines.pdf",
+    "url-branding": "http://starbucksocs.com/pdf/WPSlogoGuidelines.pdf",
     "url-web": "http://www.starbucks.com/",
     "url-logo": "logos/starbucks.png",
     "year-start": "",
@@ -1276,7 +1276,7 @@
   },
   {
     "name": "Stripe",
-    "url-brand": "https://stripe.com/about/resources",
+    "url-branding": "https://stripe.com/about/resources",
     "url-web": "https://stripe.com/",
     "url-logo": "logos/stripe.png",
     "year-start": "",
@@ -1289,7 +1289,7 @@
   },
   {
     "name": "Symantec",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.symantec.com/",
     "url-logo": "logos/symantec.png",
     "year-start": "",
@@ -1302,7 +1302,7 @@
   },
   {
     "name": "T-mobile",
-    "url-brand": "http://www.t-mobile.com/company/legalnotices.aspx?tp=Abt_Tab_Trademarks",
+    "url-branding": "http://www.t-mobile.com/company/legalnotices.aspx?tp=Abt_Tab_Trademarks",
     "url-web": "http://www.t-mobile.com/",
     "url-logo": "logos/tmobile.jpg",
     "year-start": "",
@@ -1317,7 +1317,7 @@
   },
   {
     "name": "Tencent",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.tencent.com/",
     "url-logo": "logos/tencent.svg",
     "year-start": "",
@@ -1330,7 +1330,7 @@
   },
   {
     "name": "Tesla",
-    "url-brand": "http://www.teslamotors.com/gallery",
+    "url-branding": "http://www.teslamotors.com/gallery",
     "url-web": "http://www.teslamotors.com/",
     "url-logo": "logos/tesla.svg",
     "year-start": "",
@@ -1343,7 +1343,7 @@
   },
   {
     "name": "Toshiba",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.toshiba.com/",
     "url-logo": "logos/toshiba.jpg",
     "year-start": "",
@@ -1356,7 +1356,7 @@
   },
   {
     "name": "Travelocity",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.travelocity.com/",
     "url-logo": "logos/travelocity.png",
     "year-start": "",
@@ -1371,7 +1371,7 @@
   },
   {
     "name": "TripAdvisor",
-    "url-brand": "http://www.tripadvisor.com/MediaKit",
+    "url-branding": "http://www.tripadvisor.com/MediaKit",
     "url-web": "http://www.tripadvisor.com/",
     "url-logo": "logos/tripadvisor.jpg",
     "year-start": "",
@@ -1384,7 +1384,7 @@
   },
   {
     "name": "Tumblr",
-    "url-brand": "https://www.tumblr.com/logo",
+    "url-branding": "https://www.tumblr.com/logo",
     "url-web": "https://www.tumblr.com/",
     "url-logo": "logos/tumblr.png",
     "year-start": "",
@@ -1397,7 +1397,7 @@
   },
   {
     "name": "Twitter",
-    "url-brand": "https://about.twitter.com/press/brand-assets",
+    "url-branding": "https://about.twitter.com/press/brand-assets",
     "url-web": "https://twitter.com/",
     "url-logo": "logos/twitter.png",
     "year-start": "",
@@ -1412,7 +1412,7 @@
   },
   {
     "name": "Uber",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.uber.com/",
     "url-logo": "logos/uber.png",
     "year-start": "",
@@ -1426,7 +1426,7 @@
   },
   {
     "name": "Verizon",
-    "url-brand": "http://www.verizonfoundation.org/about/brochures-fact-sheets-and-logos/",
+    "url-branding": "http://www.verizonfoundation.org/about/brochures-fact-sheets-and-logos/",
     "url-web": "http://www.verizon.com",
     "url-logo": "logos/verizon.png",
     "year-start": "",
@@ -1439,7 +1439,7 @@
   },
   {
     "name": "Vine",
-    "url-brand": "https://vine.co/logo",
+    "url-branding": "https://vine.co/logo",
     "url-web": "https://vine.co/",
     "url-logo": "logos/vine.gif",
     "year-start": "",
@@ -1452,7 +1452,7 @@
   },
   {
     "name": "Virgin",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.virgin.com/about-us",
     "url-logo": "logos/virgin.jpg",
     "year-start": "",
@@ -1465,7 +1465,7 @@
   },
   {
     "name": "Visa",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://usa.visa.com/",
     "url-logo": "logos/visa.jpg",
     "year-start": "",
@@ -1479,7 +1479,7 @@
   },
   {
     "name": "VMware",
-    "url-brand": "http://www.vmware.com/files/pdf/partners/VMW_10Q1_LGO_GUIDE_USLET_EN_R1.pdf",
+    "url-branding": "http://www.vmware.com/files/pdf/partners/VMW_10Q1_LGO_GUIDE_USLET_EN_R1.pdf",
     "url-web": "http://www.vmware.com/",
     "url-logo": "logos/vmware.jpg",
     "year-start": "",
@@ -1492,7 +1492,7 @@
   },
   {
     "name": "Wufoo",
-    "url-brand": "http://www.wufoo.com/docs/api/v3/third-party-application-rules/",
+    "url-branding": "http://www.wufoo.com/docs/api/v3/third-party-application-rules/",
     "url-web": "http://www.wufoo.com/",
     "url-logo": "logos/wufoo.png",
     "year-start": "",
@@ -1505,7 +1505,7 @@
   },
   {
     "name": "Yahoo",
-    "url-brand": "https://info.yahoo.com/press-center/logos-images",
+    "url-branding": "https://info.yahoo.com/press-center/logos-images",
     "url-web": "https://www.yahoo.com/",
     "url-logo": "logos/yahoo.png",
     "year-start": "",
@@ -1520,7 +1520,7 @@
   },
   {
     "name": "YC",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.ycombinator.com/",
     "url-logo": "logos/yc.gif",
     "year-start": "",
@@ -1533,7 +1533,7 @@
   },
   {
     "name": "Yelp",
-    "url-brand": "http://www.yelp.com/brand",
+    "url-branding": "http://www.yelp.com/brand",
     "url-web": "http://www.yelp.com/",
     "url-logo": "logos/yelp.jpg",
     "year-start": "",
@@ -1546,7 +1546,7 @@
   },
   {
     "name": "Youtube",
-    "url-brand": "https://www.youtube.com/yt/brand/",
+    "url-branding": "https://www.youtube.com/yt/brand/",
     "url-web": "https://www.youtube.com/",
     "url-logo": "logos/youtube.png",
     "year-start": "",
@@ -1559,7 +1559,7 @@
   },
   {
     "name": "Zappos",
-    "url-brand": "http://about.zappos.com/press-center/media-coverage",
+    "url-branding": "http://about.zappos.com/press-center/media-coverage",
     "url-web": "http://www.zappos.com/",
     "url-logo": "logos/zappos.jpg",
     "year-start": "",
@@ -1572,7 +1572,7 @@
   },
   {
     "name": "Xbox",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.xbox.com/",
     "url-logo": "logos/xbox.jpg",
     "year-start": "",
@@ -1589,7 +1589,7 @@
   },
   {
     "name": "Playstation",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.playstation.com/",
     "url-logo": "logos/playstation.png",
     "year-start": "",
@@ -1602,7 +1602,7 @@
   },
   {
     "name": "Wii",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://wii.com/",
     "url-logo": "logos/wii.png",
     "year-start": "",
@@ -1615,7 +1615,7 @@
   },
   {
     "name": "Yammer",
-    "url-brand": "https://developer.yammer.com/assets/sites/12/2014/07/Yammer_BrandIdentityGuidelines-1.pdf",
+    "url-branding": "https://developer.yammer.com/assets/sites/12/2014/07/Yammer_BrandIdentityGuidelines-1.pdf",
     "url-web": "https://www.yammer.com/",
     "url-logo": "logos/yammer.png",
     "year-start": "",
@@ -1628,7 +1628,7 @@
   },
   {
     "name": "Bitbucket",
-    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-branding": "https://design.atlassian.com/2.0/brand/",
     "url-web": "https://bitbucket.org/",
     "url-logo": "logos/bitbucket.png",
     "year-start": "",
@@ -1641,7 +1641,7 @@
   },
   {
     "name": "Jira",
-    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-branding": "https://design.atlassian.com/2.0/brand/",
     "url-web": "https://www.atlassian.com/software/jira",
     "url-logo": "logos/jira.png",
     "year-start": "",
@@ -1654,7 +1654,7 @@
   },
   {
     "name": "HipChat",
-    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-branding": "https://design.atlassian.com/2.0/brand/",
     "url-web": "https://www.hipchat.com/",
     "url-logo": "logos/hipchat.png",
     "year-start": "",
@@ -1667,7 +1667,7 @@
   },
   {
     "name": "Atlassian",
-    "url-brand": "https://design.atlassian.com/2.0/brand/",
+    "url-branding": "https://design.atlassian.com/2.0/brand/",
     "url-web": "https://www.atlassian.com/",
     "url-logo": "logos/atlassian.png",
     "year-start": "",
@@ -1681,7 +1681,7 @@
   },
   {
     "name": "Western Digital",
-    "url-brand": "http://www.wdbrand.com/standards/guidelines/WD_Guidelines.pdf",
+    "url-branding": "http://www.wdbrand.com/standards/guidelines/WD_Guidelines.pdf",
     "url-web": "http://www.wdc.com/",
     "url-logo": "logos/wdc.jpg",
     "year-start": "",
@@ -1694,7 +1694,7 @@
   },
   {
     "name": "Cooler Master",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.coolermaster.com/",
     "url-logo": "logos/coolermaster.jpg",
     "year-start": "",
@@ -1707,7 +1707,7 @@
   },
   {
     "name": "Benq",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.benq.us/",
     "url-logo": "logos/benq.jpg",
     "year-start": "",
@@ -1720,7 +1720,7 @@
   },
   {
     "name": "Gigabyte",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.gigabyte.us/",
     "url-logo": "logos/gigabyte.jpg",
     "year-start": "",
@@ -1733,7 +1733,7 @@
   },
   {
     "name": "Kaspersky",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.kaspersky.com/",
     "url-logo": "logos/kaspersky.svg",
     "year-start": "",
@@ -1747,7 +1747,7 @@
   },
   {
     "name": "McAfee",
-    "url-brand": "http://www.mcafee.com/us/resources/misc/mcafee-logo-guidelines.pdf",
+    "url-branding": "http://www.mcafee.com/us/resources/misc/mcafee-logo-guidelines.pdf",
     "url-web": "http://www.mcafee.com/",
     "url-logo": "logos/mcafee.jpg",
     "year-start": "",
@@ -1761,7 +1761,7 @@
   },
   {
     "name": "Linksys",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.linksys.com/",
     "url-logo": "logos/linksys.png",
     "year-start": "",
@@ -1774,7 +1774,7 @@
   },
   {
     "name": "Kingston",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.kingston.com/",
     "url-logo": "logos/kingston.jpg",
     "year-start": "",
@@ -1787,7 +1787,7 @@
   },
   {
     "name": "Lexmark",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.lexmark.com/",
     "url-logo": "logos/lexmark.jpg",
     "year-start": "",
@@ -1800,7 +1800,7 @@
   },
   {
     "name": "MSi",
-    "url-brand": "http://media.msi.com/main.php?g2_view=core.DownloadItem&amp;g2_itemId=99668",
+    "url-branding": "http://media.msi.com/main.php?g2_view=core.DownloadItem&amp;g2_itemId=99668",
     "url-web": "http://us.msi.com/",
     "url-logo": "logos/msi.jpg",
     "year-start": "",
@@ -1813,7 +1813,7 @@
   },
   {
     "name": "NEC",
-    "url-brand": "http://www.nec-display-solutions.com/p/download/pr/File/cp/Internet/Shared/SiteContentNew/Press/Logos/Downloads/PDF-LogoGuidelines-(english).pdf?e=e1s1&amp;fn=NEC-Guidelines-Logo.pdf",
+    "url-branding": "http://www.nec-display-solutions.com/p/download/pr/File/cp/Internet/Shared/SiteContentNew/Press/Logos/Downloads/PDF-LogoGuidelines-(english).pdf?e=e1s1&amp;fn=NEC-Guidelines-Logo.pdf",
     "url-web": "http://www.necdisplay.com/",
     "url-logo": "logos/nec.png",
     "year-start": "",
@@ -1826,7 +1826,7 @@
   },
   {
     "name": "Netgear",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.netgear.com/",
     "url-logo": "logos/netgear.png",
     "year-start": "",
@@ -1839,7 +1839,7 @@
   },
   {
     "name": "Nintendo",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.nintendo.com/",
     "url-logo": "logos/nintendo.png",
     "year-start": "",
@@ -1852,7 +1852,7 @@
   },
   {
     "name": "OCZ",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://ocz.com/",
     "url-logo": "logos/ocz.jpg",
     "year-start": "",
@@ -1866,7 +1866,7 @@
   },
   {
     "name": "Seagate",
-    "url-brand": "https://branding.seagate.com/",
+    "url-branding": "https://branding.seagate.com/",
     "url-web": "http://www.seagate.com/",
     "url-logo": "logos/seagate.jpg",
     "year-start": "",
@@ -1879,7 +1879,7 @@
   },
   {
     "name": "Sony",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.sony.com/",
     "url-logo": "logos/sony.jpg",
     "year-start": "",
@@ -1892,7 +1892,7 @@
   },
   {
     "name": "ViewSonic",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.viewsonic.com/",
     "url-logo": "logos/viewsonic.svg",
     "year-start": "",
@@ -1905,7 +1905,7 @@
   },
   {
     "name": "Blogger",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.blogger.com/features",
     "url-logo": "logos/blogger.png",
     "year-start": "",
@@ -1918,7 +1918,7 @@
   },
   {
     "name": "Wordpress",
-    "url-brand": "https://wordpress.org/about/logos/",
+    "url-branding": "https://wordpress.org/about/logos/",
     "url-web": "https://wordpress.com/",
     "url-logo": "logos/wordpress.png",
     "year-start": "",
@@ -1933,7 +1933,7 @@
   },
   {
     "name": "Medium",
-    "url-brand": "https://medium.com/policy/logos-and-brand-guidelines-f1a01a733592",
+    "url-branding": "https://medium.com/policy/logos-and-brand-guidelines-f1a01a733592",
     "url-web": "https://medium.com/",
     "url-logo": "logos/medium.png",
     "year-start": "",
@@ -1946,7 +1946,7 @@
   },
   {
     "name": "Svbtle",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://svbtle.com/",
     "url-logo": "logos/svbtle.png",
     "year-start": "",
@@ -1959,7 +1959,7 @@
   },
   {
     "name": "Quora",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.quora.com/",
     "url-logo": "logos/quora.png",
     "year-start": "",
@@ -1972,7 +1972,7 @@
   },
   {
     "name": "Ghost",
-    "url-brand": "https://ghost.org/about/trademark/",
+    "url-branding": "https://ghost.org/about/trademark/",
     "url-web": "https://ghost.org/",
     "url-logo": "logos/ghost.png",
     "year-start": "",
@@ -1986,7 +1986,7 @@
   },
   {
     "name": "Whole Foods",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.wholefoodsmarket.com/",
     "url-logo": "logos/wholefoods.png",
     "year-start": "",
@@ -1999,7 +1999,7 @@
   },
   {
     "name": "Spotify",
-    "url-brand": "https://developer.spotify.com/download/guidelines/ux-with-other-brands.pdf",
+    "url-branding": "https://developer.spotify.com/download/guidelines/ux-with-other-brands.pdf",
     "url-web": "https://www.spotify.com/",
     "url-logo": "logos/spotify.jpg",
     "year-start": "",
@@ -2012,7 +2012,7 @@
   },
   {
     "name": "Pandora",
-    "url-brand": "http://www.pandora.com/Pandora_Identity_Standards_2009.pdf",
+    "url-branding": "http://www.pandora.com/Pandora_Identity_Standards_2009.pdf",
     "url-web": "http://www.pandora.com/",
     "url-logo": "logos/pandora.jpg",
     "year-start": "",
@@ -2025,7 +2025,7 @@
   },
   {
     "name": "Last.fm",
-    "url-brand": "http://www.last.fm/about/resources",
+    "url-branding": "http://www.last.fm/about/resources",
     "url-web": "http://www.last.fm/",
     "url-logo": "logos/lastfm.jpg",
     "year-start": "",
@@ -2038,7 +2038,7 @@
   },
   {
     "name": "Vimeo",
-    "url-brand": "http://vimeo.com/about/brand_guidelines",
+    "url-branding": "http://vimeo.com/about/brand_guidelines",
     "url-web": "https://vimeo.com/",
     "url-logo": "logos/vimeo.png",
     "year-start": "",
@@ -2051,7 +2051,7 @@
   },
   {
     "name": "Orkut",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.orkut.com/",
     "url-logo": "logos/orkut.png",
     "year-start": "",
@@ -2064,7 +2064,7 @@
   },
   {
     "name": "VLC",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.videolan.org/vlc/index.html",
     "url-logo": "logos/vlc.png",
     "year-start": "",
@@ -2077,7 +2077,7 @@
   },
   {
     "name": "NatGeo",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.nationalgeographic.com/",
     "url-logo": "logos/natgeo.jpg",
     "year-start": "",
@@ -2090,7 +2090,7 @@
   },
   {
     "name": "Sprint",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.sprint.com/",
     "url-logo": "logos/sprint.png",
     "year-start": "",
@@ -2103,7 +2103,7 @@
   },
   {
     "name": "Dribbble",
-    "url-brand": "https://dribbble.com/branding",
+    "url-branding": "https://dribbble.com/branding",
     "url-web": "https://dribbble.com/",
     "url-logo": "logos/dribbble.png",
     "year-start": "",
@@ -2116,7 +2116,7 @@
   },
   {
     "name": "Behance",
-    "url-brand": "https://www.behance.net/dev/api/brand",
+    "url-branding": "https://www.behance.net/dev/api/brand",
     "url-web": "https://www.behance.net/",
     "url-logo": "logos/behance.png",
     "year-start": "",
@@ -2129,7 +2129,7 @@
   },
   {
     "name": "Venmo",
-    "url-brand": "http://brand.venmo.com/styleguide",
+    "url-branding": "http://brand.venmo.com/styleguide",
     "url-web": "https://venmo.com/",
     "url-logo": "logos/venmo.png",
     "year-start": "",
@@ -2142,7 +2142,7 @@
   },
   {
     "name": "Blue Bottle",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://bluebottlecoffee.com/",
     "url-logo": "logos/bluebottle.png",
     "year-start": "",
@@ -2156,7 +2156,7 @@
   },
   {
     "name": "Sightglass",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "https://www.sightglasscoffee.com/",
     "url-logo": "logos/sightglass.jpg",
     "year-start": "",
@@ -2169,7 +2169,7 @@
   },
   {
     "name": "Ritual",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.ritualroasters.com/",
     "url-logo": "logos/ritual.png",
     "year-start": "",
@@ -2183,7 +2183,7 @@
   },
   {
     "name": "Barefoot",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.barefootcoffee.com/",
     "url-logo": "logos/barefoot.jpg",
     "year-start": "",
@@ -2197,7 +2197,7 @@
   },
   {
     "name": "Verve",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.vervecoffeeroasters.com/",
     "url-logo": "logos/verve.png",
     "year-start": "",
@@ -2210,7 +2210,7 @@
   },
   {
     "name": "Weaver",
-    "url-brand": "",
+    "url-branding": "",
     "url-web": "http://www.weaverscoffee.com/Default.asp",
     "url-logo": "logos/weavers.png",
     "year-start": "",
@@ -2223,7 +2223,7 @@
   },
   {
     "name": "LightUp",
-    "url-brand": "http://www.lightup.io/presskit",
+    "url-branding": "http://www.lightup.io/presskit",
     "url-web": "http://www.lightup.io",
     "url-logo": "logos/lightup.png",
     "year-start": "",
@@ -2234,4 +2234,4 @@
     ],
     "colors-secondary": []
   }
-];
+]
