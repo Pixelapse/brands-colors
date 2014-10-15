@@ -1,4 +1,4 @@
-<img src="https://s3.amazonaws.com/pixelapse-assets/blog/colors-db/blog_colors_db.png" width="100%" height="auto" alt="Brands Colors Database" title="Brands Colors Database">
+<img src="https://s3.amazonaws.com/pixelapse-assets/blog/colors-db/brands-colors.png" width="100%" height="auto" alt="Brands Colors Database" title="Brands Colors Database">
 ===============
 
 This is the database of the colors for the brands used in [toolbelt.pixelapse.com/color](http://toolbelt.pixelapse.com/color). We compiled an original list of 160 brands with more than 200 colors for our color tool. With it, we hope to provide more information to designers to aid them in their color choices.
@@ -13,7 +13,7 @@ You can easily search for colors used by various brands here: http://toolbelt.pi
 * https://toolbelt.pixelapse.com/color/yc (single color)
 * https://toolbelt.pixelapse.com/color/microsoft (multiple primary colors)
 * https://toolbelt.pixelapse.com/color/apple%201976 (multiple primary colors)
-* https://toolbelt.pixelapse.com/color/black (color used by multiple brands)
+* https://toolbelt.pixelapse.com/color/red (color used by multiple brands)
 
 
 
