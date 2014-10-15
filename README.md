@@ -1,7 +1,17 @@
-Pixelapse Toolbelt: Companies' Color
+Companies Color Database
 ===============
 
-This is the database of the colors for the companies in our [Toolbelt/Color](http://toolbelt.pixelapse.com/color). Feel free to add your company to it!
+This is the database of the colors for the companies used in [toolbelt.pixelapse.com/color](http://toolbelt.pixelapse.com/color). Feel free to add new company colors to this list!
+
+
+##Examples
+
+You can easily search for colors used by companies here: http://toolbelt.pixelapse.com/color. These are some examples of how the database of colors will be used in the tool:
+
+* http://toolbelt.pixelapse.com/color/yc (single color)
+* https://toolbelt.pixelapse.com/color/microsoft (multiple primary colors)
+* https://toolbelt.pixelapse.com/color/Apple%201976 (multiple primary colors)
+
 
 ##Adding a company
 
@@ -35,5 +45,7 @@ This is the database of the colors for the companies in our [Toolbelt/Color](htt
 
 4. Submit a pull request!
 
-## License
 
+##Improvements and Bugs
+
+Please feel free to open a new issue if you notice that there are colors that are wrong. We welcome your suggestions or any other bugs which you may have come across.
