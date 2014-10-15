@@ -8,7 +8,7 @@ This is the database of the colors for the companies used in [toolbelt.pixelapse
 
 You can easily search for colors used by companies here: http://toolbelt.pixelapse.com/color. These are some examples of how the database of colors will be used in the tool:
 
-* http://toolbelt.pixelapse.com/color/yc (single color)
+* https://toolbelt.pixelapse.com/color/twitter (single color)
 * https://toolbelt.pixelapse.com/color/microsoft (multiple primary colors)
 * https://toolbelt.pixelapse.com/color/Apple%201976 (multiple primary colors)
 
@@ -49,3 +49,8 @@ You can easily search for colors used by companies here: http://toolbelt.pixelap
 ##Improvements and Bugs
 
 Please feel free to open a new issue if you notice that there are colors that are wrong. We welcome your suggestions or any other bugs which you may have come across.
+
+
+##Extensions
+
+You are welcome to create your own little project based on this colors database! Will appreciate a link back here.
